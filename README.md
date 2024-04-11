@@ -1,2 +1,2 @@
-# WomenOfStarknet-Cairo
+# Women Of Starknet Cairo Bootcamp
 Cairo bootcamp for women initiated by Starknet Foundation
